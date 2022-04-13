@@ -11,4 +11,4 @@ Leet's try!
 5. X merges it
 6. X and Y takes turn
 
-Thanks! 
+Thank you! 0123456789

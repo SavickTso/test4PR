@@ -1,5 +1,6 @@
 # test4PR
 media practicing
+
 Hi! This is a Demo repository for Media Computing 2022 class
 
 Leet's try!
@@ -9,3 +10,5 @@ Leet's try!
 4. Y updates it
 5. X merges it
 6. X and Y takes turn
+
+Thanks! 
